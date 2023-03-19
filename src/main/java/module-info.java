@@ -1,0 +1,3 @@
+module ru.stepuk.changeme {
+
+}
